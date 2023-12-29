@@ -5,15 +5,4 @@ Hi. I'm Natalie ✨
 - 🎓 a CS student;
 - 🎵 a part-time musician;
 - 🙌 a human rights activist;
-- ☕ and as a surprise very few, I enjoy a nice cup of coffee.
-```cpp
-printf("%s\n", pronouns_but_theres_no_null_terminator);
-/*
- * > she/her
- *
- * segmentation fault: core dumped
- *
- * 🪦💀🪦 <-- you have reached the UB graveyard 🎉 :3
- * [lunar-lldb] _
- */
-```
+- ☕ and as a surprise to very few, I enjoy a nice cup of coffee.
