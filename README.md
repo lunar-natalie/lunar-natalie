@@ -1,7 +1,8 @@
 ### `$ whoami`
+hi, i'm natalie ✨
 
-Hi, I'm Natalie ✨
-- 👩‍💻 a Software Engineer with experience in C and C++ among other languages and environments including x86 Assembly, JS/TypeScript, Java and Python
-- 🎓 a CS undergraduate
-- 🎵 a Music Producer
-- 🙌 and a human rights activist.
+👩‍💻 developing software with a passion for both high level and low level projects, with experience in c, c++, typescript, javascript, java, python and x86 assembly amongst other languages and environments
+
+🙌 human rights activist and libre software advocate
+
+[codeberg](https://codeberg.org/lunar-natalie)
